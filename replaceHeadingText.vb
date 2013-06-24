@@ -1,6 +1,6 @@
 Sub replaceHeadingText(ctrl As IRibbonControl)
-    'ctrl As IRibbonControl
-    'Todo: Find out howcontrol As IRibbonControl Word grabs Author name and put into default combo list
+    'Function paramter: ctrl As IRibbonControl (Must be removed if debugging)
+
     Dim userName As String
     Dim fieldEmptyError As Boolean
     
