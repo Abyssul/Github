@@ -1,5 +1,5 @@
 Sub replaceHeadingText(ctrl As IRibbonControl)
-    'Function paramter: ctrl As IRibbonControl (Must be removed if debugging)
+    'Function parameter: 'ctrl As IRibbonControl' (Must be removed if debugging)
 
     Dim userName As String
     Dim fieldEmptyError As Boolean
